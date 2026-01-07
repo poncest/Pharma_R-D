@@ -1,0 +1,6 @@
+"scenario_name","description","phase1_pct","phase2_pct","phase3_pct","strategic_rationale","phase1_count","phase2_count","phase3_count"
+"Balanced Portfolio","Industry-average allocation balancing risk and timeline",0.5,0.3,0.2,"Diversified risk profile with pipeline continuity",10,6,4
+"Early-Stage Focus (High Risk)","Maximum early-stage volume for future optionality",0.7,0.2,0.1,"Bet on high-volume screening to find winners",14,4,2
+"Late-Stage Focus (Low Risk)","Conservative focus on high-probability late-stage assets",0.2,0.3,0.5,"Minimize attrition risk, accept lower total opportunities",4,6,10
+"Barbell Strategy","Bimodal: heavy early + late, minimal mid-stage",0.5,0.1,0.4,"Avoid 'valley of death' in Phase 2, concentrate bets",10,2,8
+"Speed-to-Market","Prioritizes fastest path to approval (late-stage heavy)",0.1,0.3,0.6,"Maximize near-term approval likelihood, accept higher cost",2,6,12

@@ -1,0 +1,10 @@
+therapeutic_area,phase,median_years,min_years,max_years,source
+Overall,Phase1,1.6,1,3,Wong 2019
+Overall,Phase2,2.9,1.5,5,Wong 2019
+Overall,Phase3,3.8,2,6,Wong 2019
+Oncology,Phase1,1.8,1.2,3.5,Wong 2019
+Oncology,Phase2,3.5,2,6,Wong 2019
+Oncology,Phase3,4.5,2.5,7,Wong 2019
+Vaccines,Phase1,1.2,0.8,2,Estimated
+Vaccines,Phase2,2,1,3.5,Estimated
+Vaccines,Phase3,2.5,1.5,4,Estimated

@@ -1,0 +1,6 @@
+scenario,expected_approvals,total_cost,cost_per_approval,timeline,risk_adj_return
+Balanced Portfolio,3.85,4495,1168.2,6.9,0.124
+Early-Stage Focus (High Risk),2.73,4244.6,1555.2,7.5,0.086
+Late-Stage Focus (Low Risk),6.71,4892.1,728.7,5.6,0.245
+Barbell Strategy,5.43,4523.8,832.8,6.3,0.191
+Speed-to-Market,7.67,5024.4,655.2,5.1,0.299

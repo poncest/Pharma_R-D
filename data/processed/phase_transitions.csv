@@ -1,0 +1,14 @@
+therapeutic_area,phase_transition,success_rate,source,year,overall_loa
+Overall,Phase1_to_Phase2,0.47,Norstella,2023,0.07238000000000001
+Overall,Phase2_to_Phase3,0.28,Norstella,2023,0.07238000000000001
+Overall,Phase3_to_Approval,0.55,Norstella,2023,0.07238000000000001
+Overall,Filing_to_Approval,0.92,Norstella,2023,0.07238000000000001
+Oncology,Phase1_to_Phase2,0.47,ACSH,2020,0.07238000000000001
+Oncology,Phase2_to_Phase3,0.28,ACSH,2020,0.07238000000000001
+Oncology,Phase3_to_Approval,0.55,ACSH,2020,0.07238000000000001
+Vaccines,Phase1_to_Phase2,0.75,ACSH,2020,0.33749999999999997
+Vaccines,Phase2_to_Phase3,0.6,ACSH,2020,0.33749999999999997
+Vaccines,Phase3_to_Approval,0.75,ACSH,2020,0.33749999999999997
+Anti-Infectives,Phase1_to_Phase2,0.6,Estimated,2020,0.17550000000000002
+Anti-Infectives,Phase2_to_Phase3,0.45,Estimated,2020,0.17550000000000002
+Anti-Infectives,Phase3_to_Approval,0.65,Estimated,2020,0.17550000000000002

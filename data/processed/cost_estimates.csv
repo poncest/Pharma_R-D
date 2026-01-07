@@ -1,0 +1,10 @@
+cost_scenario,phase,cost_millions,source,year,notes
+Conservative,Phase1,25,JAMA 2024,2018,Out-of-pocket
+Conservative,Phase2,60,JAMA 2024,2018,Out-of-pocket
+Conservative,Phase3,87,JAMA 2024,2018,Out-of-pocket
+Base,Phase1,75,JAMA 2024,2018,Includes failures
+Base,Phase2,180,JAMA 2024,2018,Includes failures
+Base,Phase3,260,JAMA 2024,2018,Includes failures
+Aggressive,Phase1,130,JAMA 2024,2018,Full loaded + capital
+Aggressive,Phase2,310,JAMA 2024,2018,Full loaded + capital
+Aggressive,Phase3,440,JAMA 2024,2018,Full loaded + capital

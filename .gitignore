@@ -1,0 +1,16 @@
+# R & RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Deployment
+rsconnect/
+
+# Literature (PDFs may be large/copyrighted)
+data-raw/literature/*.pdf
+
+# Temporary files
+*.log
+

@@ -1,0 +1,54 @@
+# .rscignore - Exclude from ShinyApps.io deployment
+# This prevents unnecessary files from being uploaded to shinyapps.io
+
+# renv artifacts (local binaries, wrong architecture for shinyapps.io)
+renv/library/
+renv/staging/
+renv/python/
+renv/local/
+
+# RStudio project files
+.Rproj.user/
+*.Rproj
+.Rhistory
+.RData
+
+
+# Blog posts and documentation
+*.qmd
+*.Rmd
+docs/
+blog/
+
+# Screenshots and images (large files, not needed for app)
+screenshots/
+images/
+
+# Development scripts (not needed at runtime)
+data_preparation.R
+00_setup*.R
+scratch.R
+test*.R
+
+# Version control
+.git/
+.gitignore
+
+# Deployment artifacts
+rsconnect/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Logs
+*.log
+
+# Enhanced module backups 
+modules/*_ORIGINAL.R
+
