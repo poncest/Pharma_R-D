@@ -14,8 +14,9 @@ The goal is **structural insight**, not prescription.
 
 ## Live Dashboard
 
-🔗 **Interactive simulator (ShinyApps.io):**\
-[DEPLOYMENT_URL_HERE]
+🔗 **Interactive simulator (ShinyApps.io):**  
+[Pharma R&D Simulator](https://0l6jpd-steven-ponce.shinyapps.io/Pharma_R-D/)
+
 
 ------------------------------------------------------------------------
 
