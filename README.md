@@ -35,7 +35,7 @@ Selected views illustrating the strategic framework and decision-support structu
 
 ### Trade-off Explorer
 
-![Trade-off Explorer](screenshots/tradeoff_explorer.png)\
+![Trade-off Explorer](screenshots/tradeoff_builder.png)\
 *Multi-scenario comparison using normalized radar charts*
 
 ------------------------------------------------------------------------
